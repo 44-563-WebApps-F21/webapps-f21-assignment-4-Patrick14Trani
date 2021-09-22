@@ -1,0 +1,26 @@
+.speech {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.stage-direction{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lavender;
+}:hover{
+    background-color: lightcoral;
+}
+
+.name{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.jack{
+    color: lightskyblue;
+}
+
+.algernon{
+    color: lime;
+}
+
