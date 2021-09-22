@@ -1,9 +1,11 @@
 .speech {
+    color: black;
     font-size: medium;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .stage-direction{
+    color: black;
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
     background-color: lavender;
@@ -12,6 +14,7 @@
 }
 
 .name{
+    color: black;
     font-size: large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
