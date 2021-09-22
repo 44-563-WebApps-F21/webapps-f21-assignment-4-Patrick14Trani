@@ -9,7 +9,8 @@
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
     background-color: lavender;
-}:hover{
+}
+.stage-direction:hover{
     background-color: lightcoral;
 }
 
@@ -27,8 +28,12 @@
     color: lime;
 }
 
+.lane{
+    color: peachpuff;
+}
+
 table, th, td {
     border: 1px solid black;
     padding: 1em;
-  }
+}
 
